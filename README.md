@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Neeraj Kumar Singh
+### Hi there 👋, I'm Neeraj Singh
 
 <!--
 **neerajsingh869/neerajsingh869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
