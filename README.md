@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Neeraj Singh](https://neerajsingh.dev/)
+# 👋 Hi, I'm [Neeraj Singh](https://neerajsingh.dev/)!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Angular+Specialist;React+Enthusiast;Full+Stack+Aspirant" alt="Typing SVG" />
