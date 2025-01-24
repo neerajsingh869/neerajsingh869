@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate Frontend Developer with expertise in Angular, currently transforming legacy applications into modern, responsive platforms. I'm on a mission to become an exceptional Full Stack Developer, with a strong focus on frontend excellence and AI integration.
+Passionate Frontend Developer with expertise in Angular & React, currently transforming legacy applications into modern, responsive platforms. I'm on a mission to become an exceptional Full Stack Developer, with a strong focus on frontend excellence and AI integration.
 
 ### 💼 Professional Journey
 - 🏢 Currently working as a Frontend Developer at Genpact
