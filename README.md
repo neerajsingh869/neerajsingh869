@@ -10,7 +10,7 @@ Passionate Frontend Developer with expertise in Angular & React, currently trans
 
 ### 💼 Professional Journey
 - 🏢 Currently working as a Frontend Developer at Genpact
-- 🔄 Specializing in Angular-based application modernization
+- 🔄 Specializing in React-based application modernization
 - 📈 Committed to 10-12 hours daily for continuous growth and learning
 - 🎯 Actively pursuing transition to a frontend-heavy role in top-tier tech companies
 
@@ -18,7 +18,7 @@ Passionate Frontend Developer with expertise in Angular & React, currently trans
 
 ```javascript
 const skills = {
-    frontend: ['Angular', 'React', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3'],
+    frontend: ['React', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3'],
     backend: ['Node.js', 'Express.js', 'MongoDB'],
     testing: ['Vitest', 'React Testing Library', 'Jest-dom'],
     tools: ['Git', 'Redux Toolkit', 'Firebase'],
@@ -55,7 +55,7 @@ const skills = {
 ## 🎯 Current Focus
 
 - 🔍 Mastering JavaScript & TypeScript
-- 🎨 Deep diving into React & Angular
+- 🎨 Deep diving into React
 - 🧮 Daily DSA practice
 - 🏗️ Learning Frontend System Design
 - ✨ Building production-ready applications
